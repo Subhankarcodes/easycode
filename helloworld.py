@@ -1,2 +1,2 @@
 a = 'Hello World!'
-pirnt(b)
+print(a)
