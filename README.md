@@ -1,2 +1,0 @@
-# easycode
-Just something casual
